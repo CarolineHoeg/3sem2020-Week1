@@ -105,7 +105,7 @@ public class CustomerFacade {
         //find all customers
         System.out.println("All customers: " + facade.allCustomers());
 
-        //get number of customers -doesn't work
+        //get number of customers 
         System.out.println("Number of customers: " + facade.getNumberOfCustomers());
 
     }
