@@ -15,13 +15,6 @@ import org.junit.BeforeClass;
  */
 public class CustomerFacadeTest {
 
-    @BeforeClass
-    public static void setUp() {
-        EntityManagerFactory emf = Persistence.createEntityManagerFactory("testpu");
-        CustomerFacade instance = CustomerFacade.getCustomerFacade(emf);
-        instance.addCustomer("John", "Smith");
-    }
-
     @Test
     public void testFindByID() {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("testpu");
