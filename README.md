@@ -20,7 +20,7 @@
 
 ## Friday
 1. I completed all the exercises; however, I could not get the deployment section/exercise to work as intended.
-2. Solutions to the exercises can be found in the folder "04-friday-exercises". Again, I could not get the deployed version to work as intended, since I got the same exception as I got for Thursday's exercise 4.
+2. Solutions to the exercises can be found in the folder "04-friday-exercises". Again, I could not get the deployed version to work as intended, since I got the same exception as I got for Thursday's exercise 4. I have deployed my solution and it can be found [here](http://139.59.147.16:8080/rest-jpa-devops-starter-1.0.1/).
 3. JPA, ORM, REST, JSON, DTO
 
 
